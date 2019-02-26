@@ -1,5 +1,7 @@
 {
   "name": "meucanal",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
