@@ -1,5 +1,5 @@
-1 - primeiro clone o repositoria para sua maquina local
-https://github.com/agatharech/meucanal.git 
+1 - primeiro clone o repositorio para sua maquina local
+git clone https://github.com/agatharech/meucanal.git 
 
 2 - Entrar no diretorio do projeto
 cd meucanal
